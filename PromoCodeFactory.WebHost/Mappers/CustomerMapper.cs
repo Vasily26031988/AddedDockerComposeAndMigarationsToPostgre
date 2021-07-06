@@ -30,7 +30,6 @@ namespace PromoCodeFactory.WebHost.Mappers
 					Preference = x
 				}).ToList();
 			}
-
 			return customer;
 		}
 	}
